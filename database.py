@@ -27,7 +27,7 @@ bird = main.Movie("Birdman",
 fig = main.Movie("Fight Club",
                  "1999",
                  "IMDb 8.8",
-                 "https://goo.gl/1eC2oh",
+                 "http://shorturl.at/loBN4",
                  "https://www.youtube.com/watch?v=SUXWAEX2jlg")
 
 forr = main.Movie("Forrest Gump",
@@ -45,7 +45,7 @@ god = main.Movie("Godzilla",
 good = main.Movie("Goodfellas",
                   "1990",
                   "IMDb 8.7",
-                  "https://goo.gl/xm7uwv",
+                  "http://shorturl.at/kDIX3",
                   "https://www.youtube.com/watch?v=2ilzidi_J8Q")
 
 gua = main.Movie("Guardians of the Galaxy",
@@ -81,7 +81,7 @@ shaw = main.Movie("The Shawshank Redemption",
 godf = main.Movie("The Godfather",
                   "1972",
                   "IMDb 9.2",
-                  "https://goo.gl/xgp4x5",
+                  "http://www.shorturl.at/bmI56",
                   "https://www.youtube.com/watch?v=sY1S34973zA")
 
 tom = main.Movie("Tomorrowland",
